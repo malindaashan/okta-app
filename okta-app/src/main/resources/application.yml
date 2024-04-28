@@ -1,0 +1,7 @@
+okta:
+  oauth2:
+    issuer: https://dev-xxxxxxxxxx.okta.com/oauth2/default
+    clientId: xxxxxxxxxxxxxxxxxxxx
+    clientSecret: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+    post-logout-redirect-uri: /
+    redirect-uri: /authorization-code/callback
